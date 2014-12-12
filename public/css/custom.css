@@ -8,6 +8,7 @@
   position: relative;
   padding-top: 1rem;
   border-bottom: 2px solid #e5e5e5;
+  padding-bottom: -20px;
 }
 
 .title {
@@ -38,14 +39,12 @@
 }
 
 #cta {
-  /*border: 1px solid #FFF;*/
+  margin-bottom: -10px;
 }
 
 #cta a {
   color: #fff;
   text-decoration: none;
-
-  /*background-color: yellow;*/
 }
 
 #cta h4 {
